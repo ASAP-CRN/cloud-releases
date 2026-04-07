@@ -1,0 +1,72 @@
+{
+  "release_version": "v1.0.0",
+  "cde_version": "v2.1",
+  "release_doi": "",
+  "datasets": [
+    {
+      "name": "hafler-pmdbs-sn-rnaseq-pfc",
+      "doi": null,
+      "version": "v1.0"
+    },
+    {
+      "name": "lee-pmdbs-sn-rnaseq",
+      "doi": null,
+      "version": "v1.0"
+    },
+    {
+      "name": "jakobsson-pmdbs-sn-rnaseq",
+      "doi": null,
+      "version": "v1.0"
+    },
+    {
+      "name": "scherzer-pmdbs-sn-rnaseq-mtg",
+      "doi": null,
+      "version": "v1.0"
+    },
+    {
+      "name": "cohort-pmdbs-sc-rnaseq",
+      "doi": null,
+      "version": "v1.0.0"
+    }
+  ],
+  "collections": [
+    {
+      "name": "pmdbs-sc-rnaseq",
+      "doi": null,
+      "version": "v1.0.0"
+    }
+  ],
+  "created": "2026-03-24T13:41:44.125113",
+  "metadata": {
+    "total_datasets": 5,
+    "total_collections": 1,
+    "source": "v1.0.0/datasets.csv"
+  },
+  "new_datasets": [
+    {
+      "name": "hafler-pmdbs-sn-rnaseq-pfc",
+      "doi": null,
+      "version": "v1.0"
+    },
+    {
+      "name": "lee-pmdbs-sn-rnaseq",
+      "doi": null,
+      "version": "v1.0"
+    },
+    {
+      "name": "jakobsson-pmdbs-sn-rnaseq",
+      "doi": null,
+      "version": "v1.0"
+    },
+    {
+      "name": "scherzer-pmdbs-sn-rnaseq-mtg",
+      "doi": null,
+      "version": "v1.0"
+    },
+    {
+      "name": "cohort-pmdbs-sc-rnaseq",
+      "doi": null,
+      "version": "v1.0.0"
+    }
+  ]
+}

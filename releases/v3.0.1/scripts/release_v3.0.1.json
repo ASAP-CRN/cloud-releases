@@ -1,0 +1,6 @@
+{
+  "release_version": "v3.0.1",
+  "release_doi": "https://doi.org/10.5281/zenodo.8384742",
+  "figures_snapshot": "latest",
+  "out_formats": ["md","html"]
+}

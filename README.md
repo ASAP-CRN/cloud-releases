@@ -1,72 +1,82 @@
 # ASAP CRN Cloud Releases
 
-This repository contains release information for ASAP CRN datasets and collections.
+Source-of-truth archive for ASAP CRN versioned releases. Each release is a DOI-backed, immutable snapshot that binds a specific set of datasets and collections together under a single version.
+
+This repository is automatically managed by the [cloud-orchestration](https://github.com/ASAP-CRN/cloud-orchestration) system. Manual changes should be avoided.
+
+## Current Releases
+
+9 releases as of v4.0.0: `v1.0.0`, `v2.0.0`, `v2.0.1`, `v2.0.2`, `v2.0.3`, `v3.0.0`, `v3.0.1`, `v3.0.2`, `v4.0.0`
 
 ## Structure
-- 'releases.doi': all versions reference 
-- `releases.json`: JSON index containing all releases with associated datasets and collections
-- `releases/<release_version>/`: Individual release directories
-  - version: current version of the dataset
-  - `release.json`: Collection metadata including title, description, DOI, version, and list of datasets and collections
-  - 'release.doi': current release reference 
-  - 'scripts/' sub directory which contains any scripts related to the most current release
 
+```
+releases.json                          # Master index of all releases
+releases/<release-version>/
+├── release.json                       # Full release snapshot (see schema below)
+└── scripts/                           # Release-specific scripts
+```
 
+`releases.json` is the top-level index; each entry links to the corresponding `release.json`.
 
-- Release tags (e.g., `v1.0.0`) correspond to published versions
-
-in the 'releases/' directory, there are subdirectories for each release. Each release has a 'release.json' file that contains the release metadata.
-
-Currently there are 9 releases: v1.0.0, v2.0.0, v2.0.1, v2.0.2, v2.0.3, v3.0.0, v3.0.1, v3.0.2, and v4.0.0
-
-
-
-
-
-## Release 
-
-The release.json file contains the following information:
+## Release Schema
 
 ```json
 {
-  "version": "1.0.0",
-  "release_date": "2024-01-15T10:00:00Z",
+  "release_version": "v4.0.0",
+  "cde_version": "v3.3",
+  "release_doi": "10.5281/zenodo.xxxxxxx",
   "datasets": [
     {
-      "name": "dataset_name",
-      "doi": "10.5281/zenodo.1234567",
-      "version": "1.0.0"
+      "name": "hafler-pmdbs-sn-rnaseq-pfc",
+      "doi": "10.5281/zenodo.xxxxxxx",
+      "version": "v1.0"
     }
   ],
-
-    "new_datasets": [
+  "new_datasets": [
     {
-      "name": "dataset_name",
-      "doi": "10.5281/zenodo.1234567",
-      "version": "1.0.0"
+      "name": "hafler-pmdbs-sn-rnaseq-pfc",
+      "doi": "10.5281/zenodo.xxxxxxx",
+      "version": "v1.0"
     }
   ],
   "collections": [
     {
-      "name": "collection_name",
-      "doi": "10.5281/zenodo.7654321",
-      "version": "1.0.0"
+      "name": "pmdbs-sc-rnaseq",
+      "doi": "10.5281/zenodo.xxxxxxx",
+      "version": "v3.1.0"
     }
   ],
-  "description": "Release notes and changes"
+  "created": "2026-04-07T14:50:24Z",
+  "metadata": {
+    "total_datasets": 25,
+    "total_collections": 5
+  }
 }
 ```
 
+- **`datasets`**: All datasets included in this release
+- **`new_datasets`**: Datasets added or updated for the first time in this release
+- **`collections`**: All versioned collections included in this release
+- **`cde_version`**: The Common Data Elements version applied across datasets in this release
+
+## Versioning Scheme
+
+Release versions follow `vMAJOR.MINOR.PATCH`:
+
+- **Major** — new tissue type, modality, or substantial scope change
+- **Minor** — new datasets added to an existing collection, or curation workflow updates that regenerate curated data
+- **Patch** — metadata corrections, DOI updates, or minor fixes
+
+Each release version also tracks:
+- **CDE Version** — which Common Data Elements schema was applied
+- **Dataset Version** — per-dataset version at time of release
+- **Collection Version** — per-collection version at time of release
 
 ## Release Process
 
-Releases are created through the [cloud-orchestration](https://github.com/ASAP-CRN/cloud-orchestration) system:
-
-1. Datasets and collections are prepared and assigned DOIs
-2. A release is created with a version tag
-3. All associated repositories are updated
-4. Zenodo records are published
-
-## Management
-
-This repository is automatically managed by the cloud-orchestration system. Manual changes should be avoided.
+1. Datasets and collections are prepared and assigned DOIs via Zenodo
+2. A release version tag is created in cloud-orchestration
+3. `release.json` is generated with the full dataset/collection manifest
+4. All associated repositories (`cloud-datasets`, `cloud-collections`) are updated
+5. Zenodo records are published and DOIs are finalized

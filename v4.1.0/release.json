@@ -1,0 +1,517 @@
+{
+    "release_version": "v4.1.0",
+    "cde_version": "v3.3",
+    "release_doi": "10.5281/zenodo.19740716",
+    "datasets": [
+        {
+            "name": "hafler-pmdbs-sn-rnaseq-pfc",
+            "doi": "10.5281/zenodo.15490150",
+            "version": "v1.1"
+        },
+        {
+            "name": "lee-pmdbs-sn-rnaseq",
+            "doi": "10.5281/zenodo.16744323",
+            "version": "v1.1"
+        },
+        {
+            "name": "scherzer-pmdbs-sn-rnaseq-mtg",
+            "doi": "10.5281/zenodo.16751625",
+            "version": "v1.2"
+        },
+        {
+            "name": "hardy-pmdbs-sn-rnaseq",
+            "doi": "10.5281/zenodo.16749080",
+            "version": "v1.1"
+        },
+        {
+            "name": "hardy-pmdbs-bulk-rnaseq",
+            "doi": "10.5281/zenodo.16749098",
+            "version": "v1.1"
+        },
+        {
+            "name": "lee-pmdbs-bulk-rnaseq-mfg",
+            "doi": "10.5281/zenodo.16748937",
+            "version": "v1.1"
+        },
+        {
+            "name": "wood-pmdbs-bulk-rnaseq",
+            "doi": "10.5281/zenodo.16749007",
+            "version": "v1.1"
+        },
+        {
+            "name": "scherzer-pmdbs-sn-rnaseq-mtg-hybsel",
+            "doi": "10.5281/zenodo.16885839",
+            "version": "v1.2"
+        },
+        {
+            "name": "cohort-pmdbs-sc-rnaseq",
+            "doi": "10.5281/zenodo.19876217",
+            "version": "v3.1.1"
+        },
+        {
+            "name": "cohort-pmdbs-bulk-rnaseq",
+            "doi": "10.5281/zenodo.16975686",
+            "version": "v1.2.1"
+        },
+        {
+            "name": "jakobsson-pmdbs-sn-rnaseq",
+            "doi": "10.5281/zenodo.15162834",
+            "version": "v2.1"
+        },
+        {
+            "name": "biederer-mouse-sc-rnaseq",
+            "doi": "10.5281/zenodo.15485103",
+            "version": "v1.0"
+        },
+        {
+            "name": "cragg-mouse-sn-rnaseq-striatum",
+            "doi": "10.5281/zenodo.15400039",
+            "version": "v1.0"
+        },
+        {
+            "name": "edwards-pmdbs-spatial-geomx-th",
+            "doi": "10.5281/zenodo.15480990",
+            "version": "v1.0"
+        },
+        {
+            "name": "cragg-mouse-spatial-visium-striatum",
+            "doi": "10.5281/zenodo.15428115",
+            "version": "v1.0"
+        },
+        {
+            "name": "jakobsson-pmdbs-bulk-rnaseq",
+            "doi": "10.5281/zenodo.16929448",
+            "version": "v1.0"
+        },
+        {
+            "name": "alessi-invitro-ms-p-hek293-gtip",
+            "doi": "10.5281/zenodo.17355407",
+            "version": "v1.1"
+        },
+        {
+            "name": "schlossmacher-mouse-sn-rnaseq-osn-aav-transd",
+            "doi": "10.5281/zenodo.17358327",
+            "version": "v1.0"
+        },
+        {
+            "name": "scherzer-pmdbs-spatial-visium-mtg",
+            "doi": "10.5281/zenodo.17242087",
+            "version": "v1.1"
+        },
+        {
+            "name": "scherzer-pmdbs-genetics",
+            "doi": "10.5281/zenodo.17242295",
+            "version": "v1.1"
+        },
+        {
+            "name": "alessi-mouse-sn-rnaseq-dorsal-striatum-g2019s",
+            "doi": "10.5281/zenodo.17212215",
+            "version": "v1.0"
+        },
+        {
+            "name": "jakobsson-invitro-bulk-rnaseq-dopaminergic",
+            "doi": "10.5281/zenodo.17149266",
+            "version": "v1.0"
+        },
+        {
+            "name": "jakobsson-invitro-bulk-rnaseq-microglia",
+            "doi": "10.5281/zenodo.17149290",
+            "version": "v1.0"
+        },
+        {
+            "name": "sulzer-pmdbs-sn-rnaseq",
+            "doi": "10.5281/zenodo.17612853",
+            "version": "v1.1"
+        },
+        {
+            "name": "cohort-mouse-sc-rnaseq",
+            "doi": "10.5281/zenodo.17860975",
+            "version": "v1.0.0"
+        },
+        {
+            "name": "schapira-fecal-metagenome-human-baseline",
+            "doi": "10.5281/zenodo.18353680",
+            "version": "v1.0"
+        },
+        {
+            "name": "lee-mouse-liver-bulk-rnaseq-g2019s",
+            "doi": "10.5281/zenodo.18273810",
+            "version": "v1.0"
+        },
+        {
+            "name": "lee-mouse-bulk-rnaseq-striatum-g2019s-hf-diet",
+            "doi": "10.5281/zenodo.18273802",
+            "version": "v1.0"
+        },
+        {
+            "name": "lee-mouse-sn-rnaseq-midbrain-g2019s-hf-diet",
+            "doi": "10.5281/zenodo.18273808",
+            "version": "v1.0"
+        },
+        {
+            "name": "liddle-human-colon-spatial-cosmx-rna-1000p",
+            "doi": "10.5281/zenodo.17917788",
+            "version": "v1.0"
+        },
+        {
+            "name": "liddle-human-colon-spatial-cosmx-protein-64p",
+            "doi": "10.5281/zenodo.17917771",
+            "version": "v1.0"
+        },
+        {
+            "name": "lee-mouse-ms-p-lung-g2019s-hf-diet",
+            "doi": "10.5281/zenodo.18273812",
+            "version": "v1.0"
+        },
+        {
+            "name": "lee-mouse-ms-mb-plasma-g2019s-hf-diet",
+            "doi": "10.5281/zenodo.18273818",
+            "version": "v1.0"
+        },
+        {
+            "name": "lee-mouse-ms-mb-liver-g2019s-hf-diet",
+            "doi": "10.5281/zenodo.18273822",
+            "version": "v1.0"
+        },
+        {
+            "name": "lee-mouse-ms-mb-striatum-g2019s-hf-diet",
+            "doi": "10.5281/zenodo.18273824",
+            "version": "v1.0"
+        },
+        {
+            "name": "lee-mouse-ms-mb-lung-g2019s-hf-diet",
+            "doi": "10.5281/zenodo.18273832",
+            "version": "v1.0"
+        },
+        {
+            "name": "lee-mouse-ms-mb-kidney-g2019s-hf-diet",
+            "doi": "10.5281/zenodo.18273834",
+            "version": "v1.0"
+        },
+        {
+            "name": "lee-mouse-ms-l-plasma-g2019s-hf-diet",
+            "doi": "10.5281/zenodo.18273840",
+            "version": "v1.0"
+        },
+        {
+            "name": "lee-mouse-ms-l-liver-g2019s-hf-diet",
+            "doi": "10.5281/zenodo.18273844",
+            "version": "v1.0"
+        },
+        {
+            "name": "lee-mouse-ms-l-striatum-g2019s-hf-diet",
+            "doi": "10.5281/zenodo.18273848",
+            "version": "v1.0"
+        },
+        {
+            "name": "lee-mouse-ms-l-lung-g2019s-hf-diet",
+            "doi": "10.5281/zenodo.18273852",
+            "version": "v1.0"
+        },
+        {
+            "name": "lee-mouse-ms-l-kidney-g2019s-hf-diet",
+            "doi": "10.5281/zenodo.18273858",
+            "version": "v1.0"
+        },
+        {
+            "name": "lee-mouse-ms-mb-plasma-g2019s-nuc-quant",
+            "doi": "10.5281/zenodo.18273863",
+            "version": "v1.0"
+        },
+        {
+            "name": "lee-mouse-ms-mb-striatum-g2019s-nuc-quant",
+            "doi": "10.5281/zenodo.18273868",
+            "version": "v1.0"
+        },
+        {
+            "name": "lee-mouse-ms-mb-midbrain-g2019s-nuc-quant",
+            "doi": "10.5281/zenodo.18273870",
+            "version": "v1.0"
+        },
+        {
+            "name": "alessi-mouse-ms-p-lung-vps35-d620n-wt",
+            "doi": "10.5281/zenodo.18476393",
+            "version": "v1.0"
+        },
+        {
+            "name": "alessi-mouse-ms-p-brain-vps35-d620n-wt",
+            "doi": "10.5281/zenodo.18476398",
+            "version": "v1.0"
+        },
+        {
+            "name": "alessi-mouse-ms-p-brain-vps35-d620n-dmso-mli2",
+            "doi": "10.5281/zenodo.18476402",
+            "version": "v1.0"
+        },
+        {
+            "name": "alessi-mouse-ms-p-lung-vps35-d620n-dmso-mli2",
+            "doi": "10.5281/zenodo.18476404",
+            "version": "v1.0"
+        },
+        {
+            "name": "cohort-pmdbs-bulk-rnaseq",
+            "doi": "10.5281/zenodo.16975686",
+            "version": "v1.2.1"
+        },
+        {
+            "name": "cohort-pmdbs-sc-rnaseq",
+            "doi": "10.5281/zenodo.19876217",
+            "version": "v3.1.1"
+        },
+        {
+            "name": "hafler-pmdbs-sn-rnaseq-pfc",
+            "doi": "10.5281/zenodo.15490150",
+            "version": "v1.1"
+        },
+        {
+            "name": "hardy-pmdbs-bulk-rnaseq",
+            "doi": "10.5281/zenodo.16749098",
+            "version": "v1.1"
+        },
+        {
+            "name": "hardy-pmdbs-sn-rnaseq",
+            "doi": "10.5281/zenodo.16749080",
+            "version": "v1.1"
+        },
+        {
+            "name": "jakobsson-pmdbs-sn-rnaseq",
+            "doi": "10.5281/zenodo.15162834",
+            "version": "v2.1"
+        },
+        {
+            "name": "lee-pmdbs-bulk-rnaseq-mfg",
+            "doi": "10.5281/zenodo.16748937",
+            "version": "v1.1"
+        },
+        {
+            "name": "lee-pmdbs-sn-rnaseq",
+            "doi": "10.5281/zenodo.16744323",
+            "version": "v1.1"
+        },
+        {
+            "name": "scherzer-pmdbs-genetics",
+            "doi": "10.5281/zenodo.17242295",
+            "version": "v1.1"
+        },
+        {
+            "name": "scherzer-pmdbs-sn-rnaseq-mtg",
+            "doi": "10.5281/zenodo.16751625",
+            "version": "v1.2"
+        },
+        {
+            "name": "scherzer-pmdbs-sn-rnaseq-mtg-hybsel",
+            "doi": "10.5281/zenodo.16885839",
+            "version": "v1.2"
+        },
+        {
+            "name": "scherzer-pmdbs-spatial-visium-mtg",
+            "doi": "10.5281/zenodo.17242087",
+            "version": "v1.1"
+        },
+        {
+            "name": "sulzer-pmdbs-sn-rnaseq",
+            "doi": "10.5281/zenodo.17612853",
+            "version": "v1.1"
+        },
+        {
+            "name": "wood-pmdbs-bulk-rnaseq",
+            "doi": "10.5281/zenodo.16749007",
+            "version": "v1.1"
+        }
+    ],
+    "new_datasets": [
+        {
+            "name": "lee-mouse-ms-p-lung-g2019s-hf-diet",
+            "doi": "10.5281/zenodo.18273812",
+            "version": "v1.0"
+        },
+        {
+            "name": "lee-mouse-ms-mb-plasma-g2019s-hf-diet",
+            "doi": "10.5281/zenodo.18273818",
+            "version": "v1.0"
+        },
+        {
+            "name": "lee-mouse-ms-mb-liver-g2019s-hf-diet",
+            "doi": "10.5281/zenodo.18273822",
+            "version": "v1.0"
+        },
+        {
+            "name": "lee-mouse-ms-mb-striatum-g2019s-hf-diet",
+            "doi": "10.5281/zenodo.18273824",
+            "version": "v1.0"
+        },
+        {
+            "name": "lee-mouse-ms-mb-lung-g2019s-hf-diet",
+            "doi": "10.5281/zenodo.18273832",
+            "version": "v1.0"
+        },
+        {
+            "name": "lee-mouse-ms-mb-kidney-g2019s-hf-diet",
+            "doi": "10.5281/zenodo.18273834",
+            "version": "v1.0"
+        },
+        {
+            "name": "lee-mouse-ms-l-plasma-g2019s-hf-diet",
+            "doi": "10.5281/zenodo.18273840",
+            "version": "v1.0"
+        },
+        {
+            "name": "lee-mouse-ms-l-liver-g2019s-hf-diet",
+            "doi": "10.5281/zenodo.18273844",
+            "version": "v1.0"
+        },
+        {
+            "name": "lee-mouse-ms-l-striatum-g2019s-hf-diet",
+            "doi": "10.5281/zenodo.18273848",
+            "version": "v1.0"
+        },
+        {
+            "name": "lee-mouse-ms-l-lung-g2019s-hf-diet",
+            "doi": "10.5281/zenodo.18273852",
+            "version": "v1.0"
+        },
+        {
+            "name": "lee-mouse-ms-l-kidney-g2019s-hf-diet",
+            "doi": "10.5281/zenodo.18273858",
+            "version": "v1.0"
+        },
+        {
+            "name": "lee-mouse-ms-mb-plasma-g2019s-nuc-quant",
+            "doi": "10.5281/zenodo.18273863",
+            "version": "v1.0"
+        },
+        {
+            "name": "lee-mouse-ms-mb-striatum-g2019s-nuc-quant",
+            "doi": "10.5281/zenodo.18273868",
+            "version": "v1.0"
+        },
+        {
+            "name": "lee-mouse-ms-mb-midbrain-g2019s-nuc-quant",
+            "doi": "10.5281/zenodo.18273870",
+            "version": "v1.0"
+        },
+        {
+            "name": "alessi-mouse-ms-p-lung-vps35-d620n-wt",
+            "doi": "10.5281/zenodo.18476393",
+            "version": "v1.0"
+        },
+        {
+            "name": "alessi-mouse-ms-p-brain-vps35-d620n-wt",
+            "doi": "10.5281/zenodo.18476398",
+            "version": "v1.0"
+        },
+        {
+            "name": "alessi-mouse-ms-p-brain-vps35-d620n-dmso-mli2",
+            "doi": "10.5281/zenodo.18476402",
+            "version": "v1.0"
+        },
+        {
+            "name": "alessi-mouse-ms-p-lung-vps35-d620n-dmso-mli2",
+            "doi": "10.5281/zenodo.18476404",
+            "version": "v1.0"
+        },
+        {
+            "name": "cohort-pmdbs-bulk-rnaseq",
+            "doi": "10.5281/zenodo.16975686",
+            "version": "v1.2.1"
+        },
+        {
+            "name": "cohort-pmdbs-sc-rnaseq",
+            "doi": "10.5281/zenodo.19876217",
+            "version": "v3.1.1"
+        },
+        {
+            "name": "hafler-pmdbs-sn-rnaseq-pfc",
+            "doi": "10.5281/zenodo.15490150",
+            "version": "v1.1"
+        },
+        {
+            "name": "hardy-pmdbs-bulk-rnaseq",
+            "doi": "10.5281/zenodo.16749098",
+            "version": "v1.1"
+        },
+        {
+            "name": "hardy-pmdbs-sn-rnaseq",
+            "doi": "10.5281/zenodo.16749080",
+            "version": "v1.1"
+        },
+        {
+            "name": "jakobsson-pmdbs-sn-rnaseq",
+            "doi": "10.5281/zenodo.15162834",
+            "version": "v2.1"
+        },
+        {
+            "name": "lee-pmdbs-bulk-rnaseq-mfg",
+            "doi": "10.5281/zenodo.16748937",
+            "version": "v1.1"
+        },
+        {
+            "name": "lee-pmdbs-sn-rnaseq",
+            "doi": "10.5281/zenodo.16744323",
+            "version": "v1.1"
+        },
+        {
+            "name": "scherzer-pmdbs-genetics",
+            "doi": "10.5281/zenodo.17242295",
+            "version": "v1.1"
+        },
+        {
+            "name": "scherzer-pmdbs-sn-rnaseq-mtg",
+            "doi": "10.5281/zenodo.16751625",
+            "version": "v1.2"
+        },
+        {
+            "name": "scherzer-pmdbs-sn-rnaseq-mtg-hybsel",
+            "doi": "10.5281/zenodo.16885839",
+            "version": "v1.2"
+        },
+        {
+            "name": "scherzer-pmdbs-spatial-visium-mtg",
+            "doi": "10.5281/zenodo.17242087",
+            "version": "v1.1"
+        },
+        {
+            "name": "sulzer-pmdbs-sn-rnaseq",
+            "doi": "10.5281/zenodo.17612853",
+            "version": "v1.1"
+        },
+        {
+            "name": "wood-pmdbs-bulk-rnaseq",
+            "doi": "10.5281/zenodo.16749007",
+            "version": "v1.1"
+        }
+    ],
+    "collections": {
+        "pmdbs-sc-rnaseq": {
+            "name": "pmdbs-sc-rnaseq",
+            "doi": "10.5281/zenodo.14373047",
+            "version": "v3.1.0"
+        },
+        "pmdbs-bulk-rnaseq": {
+            "name": "pmdbs-bulk-rnaseq",
+            "doi": "10.5281/zenodo.14373343",
+            "version": "v1.2.0"
+        },
+        "mouse-sc-rnaseq": {
+            "name": "mouse-sc-rnaseq",
+            "doi": "10.5281/zenodo.17860974",
+            "version": "v1.0.0"
+        },
+        "pmdbs-spatial": {
+            "name": "pmdbs-spatial",
+            "doi": "10.5281/zenodo.16979474",
+            "version": "v1.1.0"
+        },
+        "mouse-spatial": {
+            "name": "mouse-spatial",
+            "doi": "10.5281/zenodo.16979296",
+            "version": "v1.0.0"
+        }
+    },
+    "created": "2026-04-30",
+    "metadata": {
+        "total_datasets": 63,
+        "total_collections": 5,
+        "source": "define_v.4.1.0_release.py"
+    }
+}

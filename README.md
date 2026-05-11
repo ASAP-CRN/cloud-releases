@@ -28,7 +28,7 @@ releases/
 └── releases.json                      # Mirror of root releases.json (symlink or copy)
 <release-version>/                     # One directory per release version
 ├── release.json                       # Full release manifest (see schema below)
-├── scripts/                           # Release-specific scripts
+├── scripts/                           # Release-specific scripts (may be depricated)
 └── *.pdf                              # Release README PDF
 ```
 
@@ -42,15 +42,21 @@ releases/
 
 ### `<version>/release.json`
 
+example:
 ```json
 {
-  "release_version": "v4.0.0",
+  "release_version": "v4.0.1",
   "cde_version": "v3.3",
   "release_doi": "10.5281/zenodo.17834620",
   "datasets": [
     {
       "name": "hafler-pmdbs-sn-rnaseq-pfc",
       "doi": "10.5281/zenodo.15490150",
+      "version": "v1.0"
+    },
+    {
+      "name": "sulzer-pmdbs-sn-rnaseq",
+      "doi": "10.5281/zenodo.17612853",
       "version": "v1.0"
     }
   ],
@@ -111,7 +117,7 @@ Each release version also tracks:
 
 ## Release Process
 
-1. Datasets and collections are prepared and assigned DOIs via Zenodo
+1. Datasets and collections are prepared and assigned Dataset DOIs via Zenodo
 2. A release version tag is created in cloud-orchestration
 3. `<version>/release.json` is generated with the full dataset/collection manifest
 4. `releases.json` index is updated with the new release entry

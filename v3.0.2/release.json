@@ -133,23 +133,23 @@
   ],
   "collections": [
     {
-      "name": "pmdbs-sc-rnaseq",
-      "doi": null,
-      "version": "v3.0.0"
-    },
-    {
-      "name": "pmdbs-bulk-rnaseq",
-      "doi": null,
-      "version": "v1.1.0"
-    },
-    {
-      "name": "pmdbs-spatial",
-      "doi": null,
+      "name": "mouse-spatial",
+      "doi": "10.5281/zenodo.16979296",
       "version": "v1.0.0"
     },
     {
-      "name": "mouse-spatial",
-      "doi": null,
+      "name": "pmdbs-bulk-rnaseq",
+      "doi": "10.5281/zenodo.14373343",
+      "version": "v1.1.0"
+    },
+    {
+      "name": "pmdbs-sc-rnaseq",
+      "doi": "10.5281/zenodo.14373047",
+      "version": "v3.0.0"
+    },
+    {
+      "name": "pmdbs-spatial",
+      "doi": "10.5281/zenodo.16979474",
       "version": "v1.0.0"
     }
   ],

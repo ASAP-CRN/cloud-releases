@@ -191,33 +191,33 @@
             "version": "v1.0"
         }
     ],
-    "collections": {
-        "pmdbs-sc-rnaseq": {
+    "collections": [
+        {
             "name": "pmdbs-sc-rnaseq",
             "doi": "10.5281/zenodo.14373047",
             "version": "v3.1.0"
         },
-        "pmdbs-bulk-rnaseq": {
+        {
             "name": "pmdbs-bulk-rnaseq",
             "doi": "10.5281/zenodo.14373343",
             "version": "v1.2.0"
         },
-        "mouse-sc-rnaseq": {
+        {
             "name": "mouse-sc-rnaseq",
             "doi": "10.5281/zenodo.17860974",
             "version": "v1.0.0"
         },
-        "pmdbs-spatial": {
+        {
             "name": "pmdbs-spatial",
             "doi": "10.5281/zenodo.16979474",
             "version": "v1.1.0"
         },
-        "mouse-spatial": {
+        {
             "name": "mouse-spatial",
-            "doi": "10.5281/zenodo.16979296",
+            "doi": "10.5281/zenodo.16979297",
             "version": "v1.0.0"
         }
-    },
+    ],
     "created": "2026-02-30",
     "metadata": {
         "total_datasets": 31,

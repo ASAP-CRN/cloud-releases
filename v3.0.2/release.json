@@ -133,7 +133,7 @@
   ],
   "collections": [
     {
-      "name": "mouse-spatial",
+      "name": "mouse-spatial-rnaseq",
       "doi": "10.5281/zenodo.16979296",
       "version": "v1.0.0"
     },
@@ -148,7 +148,7 @@
       "version": "v3.0.0"
     },
     {
-      "name": "pmdbs-spatial",
+      "name": "pmdbs-spatial-rnaseq",
       "doi": "10.5281/zenodo.16979474",
       "version": "v1.0.0"
     }

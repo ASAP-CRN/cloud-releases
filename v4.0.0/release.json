@@ -273,12 +273,12 @@
       "version": "v1.0.0"
     },
     {
-      "name": "pmdbs-spatial",
+      "name": "pmdbs-spatial-rnaseq",
       "doi": "10.5281/zenodo.16979474",
       "version": "v1.1.0"
     },
     {
-      "name": "mouse-spatial",
+      "name": "mouse-spatial-rnaseq",
       "doi": "10.5281/zenodo.16979297",
       "version": "v1.0.0"
     }

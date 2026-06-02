@@ -1,7 +1,7 @@
 {
-    "release_version": "v4.0.1",
-    "cde_version": "v4.1",
-    "release_doi": "10.5281/zenodo.18780122",
+    "release_version": "v4.1.1",
+    "cde_version": "v4.4",
+    "release_doi": "10.5281/zenodo.20185963",
     "datasets": [
         {
             "name": "hafler-pmdbs-sn-rnaseq-pfc",
@@ -157,37 +157,202 @@
             "name": "liddle-human-colon-spatial-cosmx-protein-64p",
             "doi": "10.5281/zenodo.17917771",
             "dataset_version": "v1.0"
+        },
+        {
+            "name": "alessi-mefs-ms-p-vps35-d620n-wt",
+            "doi": "10.5281/zenodo.18476408",
+            "dataset_version": "v1.0"
+        },
+        {
+            "name": "alessi-mefs-ms-p-vps35-d620n-dmso-mli2",
+            "doi": "10.5281/zenodo.18476410",
+            "dataset_version": "v1.0"
+        },
+        {
+            "name": "sulzer-fecal-metagenome-fp-spf",
+            "doi": "10.5281/zenodo.18989559",
+            "dataset_version": "v1.0"
+        },
+        {
+            "name": "lee-mouse-ms-p-lung-g2019s-hf-diet",
+            "doi": "10.5281/zenodo.18273812",
+            "dataset_version": "v1.0"
+        },
+        {
+            "name": "lee-mouse-ms-mb-plasma-g2019s-hf-diet",
+            "doi": "10.5281/zenodo.18273818",
+            "dataset_version": "v1.0"
+        },
+        {
+            "name": "lee-mouse-ms-mb-liver-g2019s-hf-diet",
+            "doi": "10.5281/zenodo.18273822",
+            "dataset_version": "v1.0"
+        },
+        {
+            "name": "lee-mouse-ms-mb-striatum-g2019s-hf-diet",
+            "doi": "10.5281/zenodo.18273824",
+            "dataset_version": "v1.0"
+        },
+        {
+            "name": "lee-mouse-ms-mb-lung-g2019s-hf-diet",
+            "doi": "10.5281/zenodo.18273832",
+            "dataset_version": "v1.0"
+        },
+        {
+            "name": "lee-mouse-ms-mb-kidney-g2019s-hf-diet",
+            "doi": "10.5281/zenodo.18273834",
+            "dataset_version": "v1.0"
+        },
+        {
+            "name": "lee-mouse-ms-l-plasma-g2019s-hf-diet",
+            "doi": "10.5281/zenodo.18273840",
+            "dataset_version": "v1.0"
+        },
+        {
+            "name": "lee-mouse-ms-l-liver-g2019s-hf-diet",
+            "doi": "10.5281/zenodo.18273844",
+            "dataset_version": "v1.0"
+        },
+        {
+            "name": "lee-mouse-ms-l-striatum-g2019s-hf-diet",
+            "doi": "10.5281/zenodo.18273848",
+            "dataset_version": "v1.0"
+        },
+        {
+            "name": "lee-mouse-ms-l-lung-g2019s-hf-diet",
+            "doi": "10.5281/zenodo.18273852",
+            "dataset_version": "v1.0"
+        },
+        {
+            "name": "lee-mouse-ms-l-kidney-g2019s-hf-diet",
+            "doi": "10.5281/zenodo.18273858",
+            "dataset_version": "v1.0"
+        },
+        {
+            "name": "lee-mouse-ms-mb-plasma-g2019s-nuc-quant",
+            "doi": "10.5281/zenodo.18273863",
+            "dataset_version": "v1.0"
+        },
+        {
+            "name": "lee-mouse-ms-mb-striatum-g2019s-nuc-quant",
+            "doi": "10.5281/zenodo.18273868",
+            "dataset_version": "v1.0"
+        },
+        {
+            "name": "lee-mouse-ms-mb-midbrain-g2019s-nuc-quant",
+            "doi": "10.5281/zenodo.18273870",
+            "dataset_version": "v1.0"
+        },
+        {
+            "name": "alessi-mouse-ms-p-lung-vps35-d620n-wt",
+            "doi": "10.5281/zenodo.18476393",
+            "dataset_version": "v1.0"
+        },
+        {
+            "name": "alessi-mouse-ms-p-brain-vps35-d620n-wt",
+            "doi": "10.5281/zenodo.18476398",
+            "dataset_version": "v1.0"
+        },
+        {
+            "name": "alessi-mouse-ms-p-brain-vps35-d620n-dmso-mli2",
+            "doi": "10.5281/zenodo.18476402",
+            "dataset_version": "v1.0"
+        },
+        {
+            "name": "alessi-mouse-ms-p-lung-vps35-d620n-dmso-mli2",
+            "doi": "10.5281/zenodo.18476404",
+            "dataset_version": "v1.0"
+        },
+        {
+            "name": "voet-pmdbs-sn-multimodal",
+            "doi": "10.5281/zenodo.18988753",
+            "dataset_version": "v1.0"
+        },
+        {
+            "name": "voet-pmdbs-sn-atacseq-scalebio-hydrop",
+            "doi": "10.5281/zenodo.18988743",
+            "dataset_version": "v1.0"
+        },
+        {
+            "name": "voet-pmdbs-sn-atacseq-scalebio-10x",
+            "doi": "10.5281/zenodo.18988717",
+            "dataset_version": "v1.0"
+        },
+        {
+            "name": "voet-pmdbs-sn-atacseq-hydrop",
+            "doi": "10.5281/zenodo.18988735",
+            "dataset_version": "v1.0"
+        },
+        {
+            "name": "voet-pmdbs-sn-atacseq-10x",
+            "doi": "10.5281/zenodo.18988729",
+            "dataset_version": "v1.0"
+        },
+        {
+            "name": "voet-pmdbs-sn-rnaseq-parsebio",
+            "doi": "10.5281/zenodo.18988761",
+            "dataset_version": "v1.0"
+        },
+        {
+            "name": "voet-pmdbs-sn-rnaseq",
+            "doi": "10.5281/zenodo.18988768",
+            "dataset_version": "v1.0"
+        },
+        {
+            "name": "scherzer-pmdbs-sn-rnaseq-midbrain-hybsel",
+            "doi": "10.5281/zenodo.19124469",
+            "dataset_version": "v1.0"
+        },
+        {
+            "name": "scherzer-pmdbs-lr-wgs",
+            "doi": "10.5281/zenodo.19124632",
+            "dataset_version": "v1.0"
         }
     ],
     "new_datasets": [
         {
-            "name": "schapira-fecal-metagenome-human-baseline",
-            "doi": "10.5281/zenodo.18353680",
+            "name": "voet-pmdbs-sn-multimodal",
+            "doi": "10.5281/zenodo.18988753",
             "dataset_version": "v1.0"
         },
         {
-            "name": "lee-mouse-liver-bulk-rnaseq-g2019s",
-            "doi": "10.5281/zenodo.18273810",
+            "name": "voet-pmdbs-sn-atacseq-scalebio-hydrop",
+            "doi": "10.5281/zenodo.18988743",
             "dataset_version": "v1.0"
         },
         {
-            "name": "lee-mouse-bulk-rnaseq-striatum-g2019s-hf-diet",
-            "doi": "10.5281/zenodo.18273802",
+            "name": "voet-pmdbs-sn-atacseq-scalebio-10x",
+            "doi": "10.5281/zenodo.18988717",
             "dataset_version": "v1.0"
         },
         {
-            "name": "lee-mouse-sn-rnaseq-midbrain-g2019s-hf-diet",
-            "doi": "10.5281/zenodo.18273808",
+            "name": "voet-pmdbs-sn-atacseq-hydrop",
+            "doi": "10.5281/zenodo.18988735",
             "dataset_version": "v1.0"
         },
         {
-            "name": "liddle-human-colon-spatial-cosmx-rna-1000p",
-            "doi": "10.5281/zenodo.17917788",
+            "name": "voet-pmdbs-sn-atacseq-10x",
+            "doi": "10.5281/zenodo.18988729",
             "dataset_version": "v1.0"
         },
         {
-            "name": "liddle-human-colon-spatial-cosmx-protein-64p",
-            "doi": "10.5281/zenodo.17917771",
+            "name": "voet-pmdbs-sn-rnaseq-parsebio",
+            "doi": "10.5281/zenodo.18988761",
+            "dataset_version": "v1.0"
+        },
+        {
+            "name": "voet-pmdbs-sn-rnaseq",
+            "doi": "10.5281/zenodo.18988768",
+            "dataset_version": "v1.0"
+        },
+        {
+            "name": "scherzer-pmdbs-sn-rnaseq-midbrain-hybsel",
+            "doi": "10.5281/zenodo.19124469",
+            "dataset_version": "v1.0"
+        },
+        {
+            "name": "scherzer-pmdbs-lr-wgs",
+            "doi": "10.5281/zenodo.19124632",
             "dataset_version": "v1.0"
         }
     ],
@@ -195,7 +360,7 @@
         "pmdbs-sc-rnaseq": {
             "name": "pmdbs-sc-rnaseq",
             "doi": "10.5281/zenodo.14373047",
-            "version": "v3.1.0"
+            "version": "v3.1.1"
         },
         "pmdbs-bulk-rnaseq": {
             "name": "pmdbs-bulk-rnaseq",
@@ -218,10 +383,10 @@
             "version": "v1.0.0"
         }
     },
-    "created": "2026-02-30",
+    "created": "2026-05-30",
     "metadata": {
-        "total_datasets": 31,
+        "total_datasets": 61,
         "total_collections": 5,
-        "source": "define_v.4.0.1_release.py"
+        "source": "define_v.4.1.1_release.py"
     }
 }

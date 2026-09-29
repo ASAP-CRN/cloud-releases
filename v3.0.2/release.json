@@ -135,22 +135,22 @@
         "mouse-spatial-rnaseq": {
             "name": "mouse-spatial-rnaseq",
             "doi": "10.5281/zenodo.16979296",
-            "version": "v1.0.0"
+            "version": "1.0.0"
         },
         "pmdbs-bulk-rnaseq": {
             "name": "pmdbs-bulk-rnaseq",
             "doi": "10.5281/zenodo.14373343",
-            "version": "v1.1.0"
+            "version": "1.1.0"
         },
         "pmdbs-sc-rnaseq": {
             "name": "pmdbs-sc-rnaseq",
             "doi": "10.5281/zenodo.14373047",
-            "version": "v3.0.0"
+            "version": "3.0.0"
         },
         "pmdbs-spatial-rnaseq": {
             "name": "pmdbs-spatial-rnaseq",
             "doi": "10.5281/zenodo.16979474",
-            "version": "v1.0.0"
+            "version": "1.0.0"
         }
     },
     "created": "2026-04-07T14:50:24.348076",

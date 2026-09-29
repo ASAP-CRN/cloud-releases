@@ -1,7 +1,7 @@
 {
-    "release_version": "v4.1.0",
-    "cde_version": "v4.3",
-    "release_doi": "10.5281/zenodo.19740716",
+    "release_version": "v5.1.0",
+    "cde_version": "v4.5",
+    "release_doi": "10.5281/zenodo.20186059",
     "datasets": [
         {
             "name": "hafler-pmdbs-sn-rnaseq-pfc",
@@ -66,7 +66,7 @@
         {
             "name": "cragg-mouse-sn-rnaseq-striatum",
             "doi": "10.5281/zenodo.15400039",
-            "dataset_version": "v1.0"
+            "dataset_version": "v2.0"
         },
         {
             "name": "edwards-pmdbs-spatial-geomx-th",
@@ -262,201 +262,201 @@
             "name": "alessi-mouse-ms-p-lung-vps35-d620n-dmso-mli2",
             "doi": "10.5281/zenodo.18476404",
             "dataset_version": "v1.0"
+        },
+        {
+            "name": "voet-pmdbs-sn-multimodal",
+            "doi": "10.5281/zenodo.18988753",
+            "dataset_version": "v2.0"
+        },
+        {
+            "name": "voet-pmdbs-sn-atacseq-scalebio-hydrop",
+            "doi": "10.5281/zenodo.18988743",
+            "dataset_version": "v1.0"
+        },
+        {
+            "name": "voet-pmdbs-sn-atacseq-scalebio-10x",
+            "doi": "10.5281/zenodo.18988717",
+            "dataset_version": "v1.0"
+        },
+        {
+            "name": "voet-pmdbs-sn-atacseq-hydrop",
+            "doi": "10.5281/zenodo.18988735",
+            "dataset_version": "v1.0"
+        },
+        {
+            "name": "voet-pmdbs-sn-atacseq-10x",
+            "doi": "10.5281/zenodo.18988729",
+            "dataset_version": "v1.0"
+        },
+        {
+            "name": "voet-pmdbs-sn-rnaseq-parsebio",
+            "doi": "10.5281/zenodo.18988761",
+            "dataset_version": "v1.0"
+        },
+        {
+            "name": "voet-pmdbs-sn-rnaseq",
+            "doi": "10.5281/zenodo.18988768",
+            "dataset_version": "v1.0"
+        },
+        {
+            "name": "scherzer-pmdbs-sn-rnaseq-midbrain-hybsel",
+            "doi": "10.5281/zenodo.19124469",
+            "dataset_version": "v1.0"
+        },
+        {
+            "name": "scherzer-pmdbs-lr-wgs",
+            "doi": "10.5281/zenodo.19124632",
+            "dataset_version": "v1.0"
+        },
+        {
+            "name": "cohort-invitro-bulk-rnaseq",
+            "doi": "110.5281/zenodo.1786097",
+            "dataset_version": "v1.0.0"
+        },
+        {
+            "name": "desjardins-mouse-bulk-rnaseq-striatum-pink1",
+            "doi": "10.5281/zenodo.20276414",
+            "dataset_version": "v1.0"
+        },
+        {
+            "name": "desjardins-mouse-bulk-rnaseq-nigra-pink1",
+            "doi": "10.5281/zenodo.20276416",
+            "dataset_version": "v1.0"
+        },
+        {
+            "name": "desjardins-mouse-sc-rnaseq-colon-immune-lrrk2",
+            "doi": "10.5281/zenodo.20276410",
+            "dataset_version": "v1.0"
+        },
+        {
+            "name": "desjardins-ipsc-sc-rnaseq-myeloid-pink1",
+            "doi": "10.5281/zenodo.20276412",
+            "dataset_version": "v1.0"
+        },
+        {
+            "name": "desjardins-mouse-sc-rnaseq-colon-immune-pink1",
+            "doi": "10.5281/zenodo.20276571",
+            "dataset_version": "v1.0"
+        },
+        {
+            "name": "rio-hesc-spheroids-sc-rnaseq-irradiated",
+            "doi": "10.5281/zenodo.19600803",
+            "dataset_version": "v1.0"
+        },
+        {
+            "name": "rio-hesc-sc-rnaseq-irradiated",
+            "doi": "10.5281/zenodo.19600807",
+            "dataset_version": "v1.0"
+        },
+        {
+            "name": "rio-hesc-sc-rnaseq-wt-dopaminergic",
+            "doi": "10.5281/zenodo.19600810",
+            "dataset_version": "v1.0"
+        },
+        {
+            "name": "rio-hesc-targeted-ngs-mutant-zygosity",
+            "doi": "10.5281/zenodo.19600812",
+            "dataset_version": "v1.0"
+        },
+        {
+            "name": "rio-hesc-wgs-iscore-pd-genotyping-and-snps",
+            "doi": "10.5281/zenodo.19600814",
+            "dataset_version": "v1.0"
         }
     ],
     "new_datasets": [
         {
-            "name": "lee-mouse-ms-p-lung-g2019s-hf-diet",
-            "doi": "10.5281/zenodo.18273812",
+            "name": "desjardins-mouse-bulk-rnaseq-striatum-pink1",
+            "doi": "10.5281/zenodo.20276414",
             "dataset_version": "v1.0"
         },
         {
-            "name": "lee-mouse-ms-mb-plasma-g2019s-hf-diet",
-            "doi": "10.5281/zenodo.18273818",
+            "name": "desjardins-mouse-bulk-rnaseq-nigra-pink1",
+            "doi": "10.5281/zenodo.20276416",
             "dataset_version": "v1.0"
         },
         {
-            "name": "lee-mouse-ms-mb-liver-g2019s-hf-diet",
-            "doi": "10.5281/zenodo.18273822",
+            "name": "desjardins-mouse-sc-rnaseq-colon-immune-lrrk2",
+            "doi": "10.5281/zenodo.20276410",
             "dataset_version": "v1.0"
         },
         {
-            "name": "lee-mouse-ms-mb-striatum-g2019s-hf-diet",
-            "doi": "10.5281/zenodo.18273824",
+            "name": "desjardins-ipsc-sc-rnaseq-myeloid-pink1",
+            "doi": "10.5281/zenodo.20276412",
             "dataset_version": "v1.0"
         },
         {
-            "name": "lee-mouse-ms-mb-lung-g2019s-hf-diet",
-            "doi": "10.5281/zenodo.18273832",
+            "name": "desjardins-mouse-sc-rnaseq-colon-immune-pink1",
+            "doi": "10.5281/zenodo.20276571",
             "dataset_version": "v1.0"
         },
         {
-            "name": "lee-mouse-ms-mb-kidney-g2019s-hf-diet",
-            "doi": "10.5281/zenodo.18273834",
+            "name": "rio-hesc-spheroids-sc-rnaseq-irradiated",
+            "doi": "10.5281/zenodo.19600803",
             "dataset_version": "v1.0"
         },
         {
-            "name": "lee-mouse-ms-l-plasma-g2019s-hf-diet",
-            "doi": "10.5281/zenodo.18273840",
+            "name": "rio-hesc-sc-rnaseq-irradiated",
+            "doi": "10.5281/zenodo.19600807",
             "dataset_version": "v1.0"
         },
         {
-            "name": "lee-mouse-ms-l-liver-g2019s-hf-diet",
-            "doi": "10.5281/zenodo.18273844",
+            "name": "rio-hesc-sc-rnaseq-wt-dopaminergic",
+            "doi": "10.5281/zenodo.19600810",
             "dataset_version": "v1.0"
         },
         {
-            "name": "lee-mouse-ms-l-striatum-g2019s-hf-diet",
-            "doi": "10.5281/zenodo.18273848",
+            "name": "rio-hesc-targeted-ngs-mutant-zygosity",
+            "doi": "10.5281/zenodo.19600812",
             "dataset_version": "v1.0"
         },
         {
-            "name": "lee-mouse-ms-l-lung-g2019s-hf-diet",
-            "doi": "10.5281/zenodo.18273852",
+            "name": "rio-hesc-wgs-iscore-pd-genotyping-and-snps",
+            "doi": "10.5281/zenodo.19600814",
             "dataset_version": "v1.0"
-        },
-        {
-            "name": "lee-mouse-ms-l-kidney-g2019s-hf-diet",
-            "doi": "10.5281/zenodo.18273858",
-            "dataset_version": "v1.0"
-        },
-        {
-            "name": "lee-mouse-ms-mb-plasma-g2019s-nuc-quant",
-            "doi": "10.5281/zenodo.18273863",
-            "dataset_version": "v1.0"
-        },
-        {
-            "name": "lee-mouse-ms-mb-striatum-g2019s-nuc-quant",
-            "doi": "10.5281/zenodo.18273868",
-            "dataset_version": "v1.0"
-        },
-        {
-            "name": "lee-mouse-ms-mb-midbrain-g2019s-nuc-quant",
-            "doi": "10.5281/zenodo.18273870",
-            "dataset_version": "v1.0"
-        },
-        {
-            "name": "alessi-mouse-ms-p-lung-vps35-d620n-wt",
-            "doi": "10.5281/zenodo.18476393",
-            "dataset_version": "v1.0"
-        },
-        {
-            "name": "alessi-mouse-ms-p-brain-vps35-d620n-wt",
-            "doi": "10.5281/zenodo.18476398",
-            "dataset_version": "v1.0"
-        },
-        {
-            "name": "alessi-mouse-ms-p-brain-vps35-d620n-dmso-mli2",
-            "doi": "10.5281/zenodo.18476402",
-            "dataset_version": "v1.0"
-        },
-        {
-            "name": "alessi-mouse-ms-p-lung-vps35-d620n-dmso-mli2",
-            "doi": "10.5281/zenodo.18476404",
-            "dataset_version": "v1.0"
-        },
-        {
-            "name": "cohort-pmdbs-bulk-rnaseq",
-            "doi": "10.5281/zenodo.16975686",
-            "dataset_version": "v1.2.1"
-        },
-        {
-            "name": "cohort-pmdbs-sc-rnaseq",
-            "doi": "10.5281/zenodo.19876217",
-            "dataset_version": "v3.1.1"
-        },
-        {
-            "name": "hafler-pmdbs-sn-rnaseq-pfc",
-            "doi": "10.5281/zenodo.15490150",
-            "dataset_version": "v1.1"
-        },
-        {
-            "name": "hardy-pmdbs-bulk-rnaseq",
-            "doi": "10.5281/zenodo.16749098",
-            "dataset_version": "v1.1"
-        },
-        {
-            "name": "hardy-pmdbs-sn-rnaseq",
-            "doi": "10.5281/zenodo.16749080",
-            "dataset_version": "v1.1"
-        },
-        {
-            "name": "jakobsson-pmdbs-sn-rnaseq",
-            "doi": "10.5281/zenodo.15162834",
-            "dataset_version": "v2.1"
-        },
-        {
-            "name": "lee-pmdbs-bulk-rnaseq-mfg",
-            "doi": "10.5281/zenodo.16748937",
-            "dataset_version": "v1.1"
-        },
-        {
-            "name": "lee-pmdbs-sn-rnaseq",
-            "doi": "10.5281/zenodo.16744323",
-            "dataset_version": "v1.1"
-        },
-        {
-            "name": "scherzer-pmdbs-genetics",
-            "doi": "10.5281/zenodo.17242295",
-            "dataset_version": "v1.1"
-        },
-        {
-            "name": "scherzer-pmdbs-sn-rnaseq-mtg",
-            "doi": "10.5281/zenodo.16751625",
-            "dataset_version": "v1.2"
-        },
-        {
-            "name": "scherzer-pmdbs-sn-rnaseq-mtg-hybsel",
-            "doi": "10.5281/zenodo.16885839",
-            "dataset_version": "v1.2"
-        },
-        {
-            "name": "scherzer-pmdbs-spatial-visium-mtg",
-            "doi": "10.5281/zenodo.17242087",
-            "dataset_version": "v1.1"
-        },
-        {
-            "name": "sulzer-pmdbs-sn-rnaseq",
-            "doi": "10.5281/zenodo.17612853",
-            "dataset_version": "v1.1"
-        },
-        {
-            "name": "wood-pmdbs-bulk-rnaseq",
-            "doi": "10.5281/zenodo.16749007",
-            "dataset_version": "v1.1"
         }
     ],
     "collections": {
         "pmdbs-sc-rnaseq": {
             "name": "pmdbs-sc-rnaseq",
             "doi": "10.5281/zenodo.14373047",
-            "version": "3.1.1"
-        },
-        "pmdbs-bulk-rnaseq": {
-            "name": "pmdbs-bulk-rnaseq",
-            "doi": "10.5281/zenodo.14373343",
-            "version": "1.2.1"
-        },
-        "mouse-sc-rnaseq": {
-            "name": "mouse-sc-rnaseq",
-            "doi": "10.5281/zenodo.17860974",
-            "version": "1.0.0"
+            "version": "v3.1.1"
         },
         "pmdbs-spatial-rnaseq": {
             "name": "pmdbs-spatial-rnaseq",
             "doi": "10.5281/zenodo.16979474",
-            "version": "1.1.1"
+            "version": "v1.1.0"
+        },
+        "pmdbs-bulk-rnaseq": {
+            "name": "pmdbs-bulk-rnaseq",
+            "doi": "10.5281/zenodo.14373343",
+            "version": "v1.2.0"
+        },
+        "invitro-bulk-rnaseq": {
+            "name": "invitro-bulk-rnaseq",
+            "doi": "10.5281/zenodo.20400938",
+            "version": "v1.0.0"
         },
         "mouse-spatial-rnaseq": {
             "name": "mouse-spatial-rnaseq",
             "doi": "10.5281/zenodo.16979296",
-            "version": "1.0.0"
+            "version": "v1.0.0"
+        },
+        "mouse-sc-rnaseq": {
+            "name": "mouse-sc-rnaseq",
+            "doi": "10.5281/zenodo.17860974",
+            "version": "v1.1.0"
+        },
+        "mouse-bulk-rnaseq": {
+            "name": "mouse-bulk-rnaseq",
+            "doi": "10.5281/zenodo.17860974",
+            "version": "v1.0.0"
         }
     },
-    "created": "2026-04-30",
+    "created": "2026-09-30",
     "metadata": {
-        "total_datasets": 52,
-        "total_collections": 4,
-        "source": "define_v.4.1.0_release.py"
+        "total_datasets": 72,
+        "total_collections": 6,
+        "source": "define_v.5.1.0_release.py"
     }
 }

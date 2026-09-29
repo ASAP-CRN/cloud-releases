@@ -33,7 +33,7 @@
         "pmdbs-sc-rnaseq": {
             "name": "pmdbs-sc-rnaseq",
             "doi": "10.5281/zenodo.14373047",
-            "version": "v1.0.0"
+            "version": "1.0.0"
         }
     },
     "created": "2026-03-24T13:41:44.125113",

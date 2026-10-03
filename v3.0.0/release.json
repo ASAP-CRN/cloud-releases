@@ -2,196 +2,128 @@
     "release_version": "v3.0.0",
     "cde_version": "v3.2",
     "release_doi": "10.5281/zenodo.16975257",
-    "datasets": [
-        {
-            "name": "hafler-pmdbs-sn-rnaseq-pfc",
-            "doi": "10.5281/zenodo.15490150",
-            "dataset_version": "v1.0"
+    "datasets": {
+        "hafler-pmdbs-sn-rnaseq-pfc": {
+            "dataset_version": "v1.0",
+            "doi": "10.5281/zenodo.15490150"
         },
-        {
-            "name": "lee-pmdbs-sn-rnaseq",
-            "doi": "10.5281/zenodo.16744323",
-            "dataset_version": "v1.0"
+        "lee-pmdbs-sn-rnaseq": {
+            "dataset_version": "v1.0",
+            "doi": "10.5281/zenodo.16744323"
         },
-        {
-            "name": "scherzer-pmdbs-sn-rnaseq-mtg",
-            "doi": "10.5281/zenodo.16885831",
-            "dataset_version": "v1.0"
+        "scherzer-pmdbs-sn-rnaseq-mtg": {
+            "dataset_version": "v1.0",
+            "doi": "10.5281/zenodo.16751625"
         },
-        {
-            "name": "hardy-pmdbs-sn-rnaseq",
-            "doi": "10.5281/zenodo.16749080",
-            "dataset_version": "v1.0"
+        "hardy-pmdbs-sn-rnaseq": {
+            "dataset_version": "v1.0",
+            "doi": "10.5281/zenodo.16749080"
         },
-        {
-            "name": "hardy-pmdbs-bulk-rnaseq",
-            "doi": "10.5281/zenodo.16749098",
-            "dataset_version": "v1.0"
+        "hardy-pmdbs-bulk-rnaseq": {
+            "dataset_version": "v1.0",
+            "doi": "10.5281/zenodo.16749098"
         },
-        {
-            "name": "lee-pmdbs-bulk-rnaseq-mfg",
-            "doi": "10.5281/zenodo.16748937",
-            "dataset_version": "v1.0"
+        "lee-pmdbs-bulk-rnaseq-mfg": {
+            "dataset_version": "v1.0",
+            "doi": "10.5281/zenodo.16748937"
         },
-        {
-            "name": "wood-pmdbs-bulk-rnaseq",
-            "doi": "10.5281/zenodo.16749007",
-            "dataset_version": "v1.0"
+        "wood-pmdbs-bulk-rnaseq": {
+            "dataset_version": "v1.0",
+            "doi": "10.5281/zenodo.16749007"
         },
-        {
-            "name": "scherzer-pmdbs-sn-rnaseq-mtg-hybsel",
-            "doi": "10.5281/zenodo.16885839",
-            "dataset_version": "v1.0"
+        "scherzer-pmdbs-sn-rnaseq-mtg-hybsel": {
+            "dataset_version": "v1.0",
+            "doi": "10.5281/zenodo.16885839"
         },
-        {
-            "name": "cohort-pmdbs-sc-rnaseq",
-            "doi": "10.5281/zenodo.16979638",
-            "dataset_version": "v3.0.0"
+        "cohort-pmdbs-sc-rnaseq": {
+            "dataset_version": "v3.0.0",
+            "doi": "10.5281/zenodo.16979638"
         },
-        {
-            "name": "cohort-pmdbs-bulk-rnaseq",
-            "doi": "10.5281/zenodo.16975686",
-            "dataset_version": "v1.1.0"
+        "cohort-pmdbs-bulk-rnaseq": {
+            "dataset_version": "v1.1.0",
+            "doi": "10.5281/zenodo.16975686"
         },
-        {
-            "name": "jakobsson-pmdbs-sn-rnaseq",
-            "doi": "10.5281/zenodo.15162834",
-            "dataset_version": "v2.0"
+        "jakobsson-pmdbs-sn-rnaseq": {
+            "dataset_version": "v2.0",
+            "doi": "10.5281/zenodo.15162834"
         },
-        {
-            "name": "biederer-mouse-sc-rnaseq",
-            "doi": "10.5281/zenodo.15485103",
-            "dataset_version": "v1.0"
+        "biederer-mouse-sc-rnaseq": {
+            "dataset_version": "v1.0",
+            "doi": "10.5281/zenodo.15485103"
         },
-        {
-            "name": "cragg-mouse-sn-rnaseq-striatum",
-            "doi": "10.5281/zenodo.15400039",
-            "dataset_version": "v1.0"
+        "cragg-mouse-sn-rnaseq-striatum": {
+            "dataset_version": "v1.0",
+            "doi": "10.5281/zenodo.15400039"
         },
-        {
-            "name": "edwards-pmdbs-spatial-geomx-th",
-            "doi": "10.5281/zenodo.15480990",
-            "dataset_version": "v1.0"
+        "edwards-pmdbs-spatial-geomx-th": {
+            "dataset_version": "v1.0",
+            "doi": "10.5281/zenodo.15480990"
         },
-        {
-            "name": "cragg-mouse-spatial-visium-striatum",
-            "doi": "10.5281/zenodo.15428115",
-            "dataset_version": "v1.0"
+        "cragg-mouse-spatial-visium-striatum": {
+            "dataset_version": "v1.0",
+            "doi": "10.5281/zenodo.15428115"
         },
-        {
-            "name": "jakobsson-pmdbs-bulk-rnaseq",
-            "doi": "10.5281/zenodo.16929448",
-            "dataset_version": "v1.0"
+        "jakobsson-pmdbs-bulk-rnaseq": {
+            "dataset_version": "v1.0",
+            "doi": "10.5281/zenodo.16929448"
         }
-    ],
+    },
     "collections": {
         "mouse-spatial-rnaseq": {
-            "name": "mouse-spatial-rnaseq",
             "doi": "10.5281/zenodo.16979296",
-            "version": "1.0.0"
+            "version": "v1.0.0"
         },
         "pmdbs-bulk-rnaseq": {
-            "name": "pmdbs-bulk-rnaseq",
             "doi": "10.5281/zenodo.14373343",
-            "version": "1.1.0"
+            "version": "v1.1.0"
         },
         "pmdbs-sc-rnaseq": {
-            "name": "pmdbs-sc-rnaseq",
             "doi": "10.5281/zenodo.14373047",
-            "version": "3.0.0"
+            "version": "v3.0.0"
         },
         "pmdbs-spatial-rnaseq": {
-            "name": "pmdbs-spatial-rnaseq",
             "doi": "10.5281/zenodo.16979474",
-            "version": "1.0.0"
+            "version": "v1.0.0"
         }
     },
     "created": "2026-03-24T13:41:44.127820",
-    "metadata": {
-        "total_datasets": 16,
-        "total_collections": 4,
-        "source": "v3.0.0/datasets.csv"
-    },
     "new_datasets": [
-        {
-            "name": "hafler-pmdbs-sn-rnaseq-pfc",
-            "doi": "10.5281/zenodo.15490150",
-            "dataset_version": "v1.0"
-        },
-        {
-            "name": "lee-pmdbs-sn-rnaseq",
-            "doi": "10.5281/zenodo.16744323",
-            "dataset_version": "v1.0"
-        },
-        {
-            "name": "scherzer-pmdbs-sn-rnaseq-mtg",
-            "doi": "10.5281/zenodo.16885831",
-            "dataset_version": "v1.0"
-        },
-        {
-            "name": "hardy-pmdbs-sn-rnaseq",
-            "doi": "10.5281/zenodo.16749080",
-            "dataset_version": "v1.0"
-        },
-        {
-            "name": "hardy-pmdbs-bulk-rnaseq",
-            "doi": "10.5281/zenodo.16749098",
-            "dataset_version": "v1.0"
-        },
-        {
-            "name": "lee-pmdbs-bulk-rnaseq-mfg",
-            "doi": "10.5281/zenodo.16748937",
-            "dataset_version": "v1.0"
-        },
-        {
-            "name": "wood-pmdbs-bulk-rnaseq",
-            "doi": "10.5281/zenodo.16749007",
-            "dataset_version": "v1.0"
-        },
-        {
-            "name": "scherzer-pmdbs-sn-rnaseq-mtg-hybsel",
-            "doi": "10.5281/zenodo.16885839",
-            "dataset_version": "v1.0"
-        },
-        {
-            "name": "cohort-pmdbs-sc-rnaseq",
-            "doi": "10.5281/zenodo.16979638",
-            "dataset_version": "v3.0.0"
-        },
-        {
-            "name": "cohort-pmdbs-bulk-rnaseq",
-            "doi": "10.5281/zenodo.16975686",
-            "dataset_version": "v1.1.0"
-        },
-        {
-            "name": "jakobsson-pmdbs-sn-rnaseq",
-            "doi": "10.5281/zenodo.15162834",
-            "dataset_version": "v2.0"
-        },
-        {
-            "name": "biederer-mouse-sc-rnaseq",
-            "doi": "10.5281/zenodo.15485103",
-            "dataset_version": "v1.0"
-        },
-        {
-            "name": "cragg-mouse-sn-rnaseq-striatum",
-            "doi": "10.5281/zenodo.15400039",
-            "dataset_version": "v1.0"
-        },
-        {
-            "name": "edwards-pmdbs-spatial-geomx-th",
-            "doi": "10.5281/zenodo.15480990",
-            "dataset_version": "v1.0"
-        },
-        {
-            "name": "cragg-mouse-spatial-visium-striatum",
-            "doi": "10.5281/zenodo.15428115",
-            "dataset_version": "v1.0"
-        },
-        {
-            "name": "jakobsson-pmdbs-bulk-rnaseq",
-            "doi": "10.5281/zenodo.16929448",
-            "dataset_version": "v1.0"
-        }
+        "hafler-pmdbs-sn-rnaseq-pfc",
+        "lee-pmdbs-sn-rnaseq",
+        "scherzer-pmdbs-sn-rnaseq-mtg",
+        "hardy-pmdbs-sn-rnaseq",
+        "hardy-pmdbs-bulk-rnaseq",
+        "lee-pmdbs-bulk-rnaseq-mfg",
+        "wood-pmdbs-bulk-rnaseq",
+        "cohort-pmdbs-sc-rnaseq",
+        "cohort-pmdbs-bulk-rnaseq",
+        "jakobsson-pmdbs-sn-rnaseq",
+        "cragg-mouse-sn-rnaseq-striatum",
+        "edwards-pmdbs-spatial-geomx-th",
+        "cragg-mouse-spatial-visium-striatum"
+    ],
+    "datasets_names": [
+        "hafler-pmdbs-sn-rnaseq-pfc",
+        "lee-pmdbs-sn-rnaseq",
+        "scherzer-pmdbs-sn-rnaseq-mtg",
+        "hardy-pmdbs-sn-rnaseq",
+        "hardy-pmdbs-bulk-rnaseq",
+        "lee-pmdbs-bulk-rnaseq-mfg",
+        "wood-pmdbs-bulk-rnaseq",
+        "scherzer-pmdbs-sn-rnaseq-mtg-hybsel",
+        "cohort-pmdbs-sc-rnaseq",
+        "cohort-pmdbs-bulk-rnaseq",
+        "jakobsson-pmdbs-sn-rnaseq",
+        "biederer-mouse-sc-rnaseq",
+        "cragg-mouse-sn-rnaseq-striatum",
+        "edwards-pmdbs-spatial-geomx-th",
+        "cragg-mouse-spatial-visium-striatum",
+        "jakobsson-pmdbs-bulk-rnaseq"
+    ],
+    "collection_names": [
+        "mouse-spatial-rnaseq",
+        "pmdbs-bulk-rnaseq",
+        "pmdbs-sc-rnaseq",
+        "pmdbs-spatial-rnaseq"
     ]
 }

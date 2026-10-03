@@ -2,71 +2,50 @@
     "release_version": "v1.0.0",
     "cde_version": "v2.1",
     "release_doi": "10.5281/zenodo.11585274",
-    "datasets": [
-        {
-            "name": "hafler-pmdbs-sn-rnaseq-pfc",
-            "doi": "10.5281/zenodo.15490150",
-            "dataset_version": "v1.0"
+    "datasets": {
+        "hafler-pmdbs-sn-rnaseq-pfc": {
+            "dataset_version": "v1.0",
+            "doi": "10.5281/zenodo.15490150"
         },
-        {
-            "name": "lee-pmdbs-sn-rnaseq",
-            "doi": "10.5281/zenodo.16744323",
-            "dataset_version": "v1.0"
+        "lee-pmdbs-sn-rnaseq": {
+            "dataset_version": "v1.0",
+            "doi": "10.5281/zenodo.16744323"
         },
-        {
-            "name": "jakobsson-pmdbs-sn-rnaseq",
-            "doi": "10.5281/zenodo.15162834",
-            "dataset_version": "v1.0"
+        "jakobsson-pmdbs-sn-rnaseq": {
+            "dataset_version": "v1.0",
+            "doi": "10.5281/zenodo.15162834"
         },
-        {
-            "name": "scherzer-pmdbs-sn-rnaseq-mtg",
-            "doi": "10.5281/zenodo.16885831",
-            "dataset_version": "v1.0"
+        "scherzer-pmdbs-sn-rnaseq-mtg": {
+            "dataset_version": "v1.0",
+            "doi": "10.5281/zenodo.16751625"
         },
-        {
-            "name": "cohort-pmdbs-sc-rnaseq",
-            "doi": "10.5281/zenodo.14373047",
-            "dataset_version": "v1.0.0"
+        "cohort-pmdbs-sc-rnaseq": {
+            "dataset_version": "v1.0.0",
+            "doi": "10.5281/zenodo.14373047"
         }
-    ],
+    },
     "collections": {
         "pmdbs-sc-rnaseq": {
-            "name": "pmdbs-sc-rnaseq",
             "doi": "10.5281/zenodo.14373047",
-            "version": "1.0.0"
+            "version": "v1.0.0"
         }
     },
     "created": "2026-03-24T13:41:44.125113",
-    "metadata": {
-        "total_datasets": 5,
-        "total_collections": 1,
-        "source": "v1.0.0/datasets.csv"
-    },
     "new_datasets": [
-        {
-            "name": "hafler-pmdbs-sn-rnaseq-pfc",
-            "doi": "10.5281/zenodo.15490150",
-            "dataset_version": "v1.0"
-        },
-        {
-            "name": "lee-pmdbs-sn-rnaseq",
-            "doi": "10.5281/zenodo.16744323",
-            "dataset_version": "v1.0"
-        },
-        {
-            "name": "jakobsson-pmdbs-sn-rnaseq",
-            "doi": "10.5281/zenodo.15162834",
-            "dataset_version": "v1.0"
-        },
-        {
-            "name": "scherzer-pmdbs-sn-rnaseq-mtg",
-            "doi": "10.5281/zenodo.16885831",
-            "dataset_version": "v1.0"
-        },
-        {
-            "name": "cohort-pmdbs-sc-rnaseq",
-            "doi": "10.5281/zenodo.14373047",
-            "dataset_version": "v1.0.0"
-        }
+        "hafler-pmdbs-sn-rnaseq-pfc",
+        "lee-pmdbs-sn-rnaseq",
+        "jakobsson-pmdbs-sn-rnaseq",
+        "scherzer-pmdbs-sn-rnaseq-mtg",
+        "cohort-pmdbs-sc-rnaseq"
+    ],
+    "datasets_names": [
+        "hafler-pmdbs-sn-rnaseq-pfc",
+        "lee-pmdbs-sn-rnaseq",
+        "jakobsson-pmdbs-sn-rnaseq",
+        "scherzer-pmdbs-sn-rnaseq-mtg",
+        "cohort-pmdbs-sc-rnaseq"
+    ],
+    "collection_names": [
+        "pmdbs-sc-rnaseq"
     ]
 }

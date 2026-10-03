@@ -2,136 +2,91 @@
     "release_version": "v2.0.0",
     "cde_version": "v3.0",
     "release_doi": "10.5281/zenodo.14270014",
-    "datasets": [
-        {
-            "name": "hafler-pmdbs-sn-rnaseq-pfc",
-            "doi": "10.5281/zenodo.15490150",
-            "dataset_version": "v1.0"
+    "datasets": {
+        "hafler-pmdbs-sn-rnaseq-pfc": {
+            "dataset_version": "v1.0",
+            "doi": "10.5281/zenodo.15490150"
         },
-        {
-            "name": "lee-pmdbs-sn-rnaseq",
-            "doi": "10.5281/zenodo.16744323",
-            "dataset_version": "v1.0"
+        "lee-pmdbs-sn-rnaseq": {
+            "dataset_version": "v1.0",
+            "doi": "10.5281/zenodo.16744323"
         },
-        {
-            "name": "jakobsson-pmdbs-sn-rnaseq",
-            "doi": "10.5281/zenodo.15162834",
-            "dataset_version": "v1.0"
+        "jakobsson-pmdbs-sn-rnaseq": {
+            "dataset_version": "v1.0",
+            "doi": "10.5281/zenodo.15162834"
         },
-        {
-            "name": "scherzer-pmdbs-sn-rnaseq-mtg",
-            "doi": "10.5281/zenodo.16885831",
-            "dataset_version": "v1.0"
+        "scherzer-pmdbs-sn-rnaseq-mtg": {
+            "dataset_version": "v1.0",
+            "doi": "10.5281/zenodo.16751625"
         },
-        {
-            "name": "hardy-pmdbs-sn-rnaseq",
-            "doi": "10.5281/zenodo.16749080",
-            "dataset_version": "v1.0"
+        "hardy-pmdbs-sn-rnaseq": {
+            "dataset_version": "v1.0",
+            "doi": "10.5281/zenodo.16749080"
         },
-        {
-            "name": "hardy-pmdbs-bulk-rnaseq",
-            "doi": "10.5281/zenodo.16749098",
-            "dataset_version": "v1.0"
+        "hardy-pmdbs-bulk-rnaseq": {
+            "dataset_version": "v1.0",
+            "doi": "10.5281/zenodo.16749098"
         },
-        {
-            "name": "lee-pmdbs-bulk-rnaseq-mfg",
-            "doi": "10.5281/zenodo.16748937",
-            "dataset_version": "v1.0"
+        "lee-pmdbs-bulk-rnaseq-mfg": {
+            "dataset_version": "v1.0",
+            "doi": "10.5281/zenodo.16748937"
         },
-        {
-            "name": "wood-pmdbs-bulk-rnaseq",
-            "doi": "10.5281/zenodo.16749007",
-            "dataset_version": "v1.0"
+        "wood-pmdbs-bulk-rnaseq": {
+            "dataset_version": "v1.0",
+            "doi": "10.5281/zenodo.16749007"
         },
-        {
-            "name": "scherzer-pmdbs-sn-rnaseq-mtg-hybsel",
-            "doi": "10.5281/zenodo.16885839",
-            "dataset_version": "v1.0"
+        "scherzer-pmdbs-sn-rnaseq-mtg-hybsel": {
+            "dataset_version": "v1.0",
+            "doi": "10.5281/zenodo.16885839"
         },
-        {
-            "name": "cohort-pmdbs-sc-rnaseq",
-            "doi": "10.5281/zenodo.14373048",
-            "dataset_version": "v2.0.0"
+        "cohort-pmdbs-sc-rnaseq": {
+            "dataset_version": "v2.0.0",
+            "doi": "10.5281/zenodo.14373048"
         },
-        {
-            "name": "cohort-pmdbs-bulk-rnaseq",
-            "doi": "10.5281/zenodo.14373344",
-            "dataset_version": "v1.0.0"
+        "cohort-pmdbs-bulk-rnaseq": {
+            "dataset_version": "v1.0.0",
+            "doi": "10.5281/zenodo.14373344"
         }
-    ],
+    },
     "collections": {
         "pmdbs-bulk-rnaseq": {
-            "name": "pmdbs-bulk-rnaseq",
             "doi": "10.5281/zenodo.14373343",
-            "version": "1.0.0"
+            "version": "v1.0.0"
         },
         "pmdbs-sc-rnaseq": {
-            "name": "pmdbs-sc-rnaseq",
             "doi": "10.5281/zenodo.14373343",
-            "version": "2.0.0"
+            "version": "v2.0.0"
         }
     },
     "created": "2026-03-24T13:41:44.125676",
-    "metadata": {
-        "total_datasets": 11,
-        "total_collections": 2,
-        "source": "v2.0.0/datasets.csv"
-    },
     "new_datasets": [
-        {
-            "name": "hafler-pmdbs-sn-rnaseq-pfc",
-            "doi": "10.5281/zenodo.15490150",
-            "dataset_version": "v1.0"
-        },
-        {
-            "name": "lee-pmdbs-sn-rnaseq",
-            "doi": "10.5281/zenodo.16744323",
-            "dataset_version": "v1.0"
-        },
-        {
-            "name": "jakobsson-pmdbs-sn-rnaseq",
-            "doi": "10.5281/zenodo.15162834",
-            "dataset_version": "v1.0"
-        },
-        {
-            "name": "scherzer-pmdbs-sn-rnaseq-mtg",
-            "doi": "10.5281/zenodo.16885831",
-            "dataset_version": "v1.0"
-        },
-        {
-            "name": "hardy-pmdbs-sn-rnaseq",
-            "doi": "10.5281/zenodo.16749080",
-            "dataset_version": "v1.0"
-        },
-        {
-            "name": "hardy-pmdbs-bulk-rnaseq",
-            "doi": "10.5281/zenodo.16749098",
-            "dataset_version": "v1.0"
-        },
-        {
-            "name": "lee-pmdbs-bulk-rnaseq-mfg",
-            "doi": "10.5281/zenodo.16748937",
-            "dataset_version": "v1.0"
-        },
-        {
-            "name": "wood-pmdbs-bulk-rnaseq",
-            "doi": "10.5281/zenodo.16749007",
-            "dataset_version": "v1.0"
-        },
-        {
-            "name": "scherzer-pmdbs-sn-rnaseq-mtg-hybsel",
-            "doi": "10.5281/zenodo.16885839",
-            "dataset_version": "v1.0"
-        },
-        {
-            "name": "cohort-pmdbs-sc-rnaseq",
-            "doi": "10.5281/zenodo.14373048",
-            "dataset_version": "v2.0.0"
-        },
-        {
-            "name": "cohort-pmdbs-bulk-rnaseq",
-            "doi": "10.5281/zenodo.14373344",
-            "dataset_version": "v1.0.0"
-        }
+        "hafler-pmdbs-sn-rnaseq-pfc",
+        "lee-pmdbs-sn-rnaseq",
+        "jakobsson-pmdbs-sn-rnaseq",
+        "scherzer-pmdbs-sn-rnaseq-mtg",
+        "hardy-pmdbs-sn-rnaseq",
+        "hardy-pmdbs-bulk-rnaseq",
+        "lee-pmdbs-bulk-rnaseq-mfg",
+        "wood-pmdbs-bulk-rnaseq",
+        "scherzer-pmdbs-sn-rnaseq-mtg-hybsel",
+        "cohort-pmdbs-sc-rnaseq",
+        "cohort-pmdbs-bulk-rnaseq"
+    ],
+    "datasets_names": [
+        "hafler-pmdbs-sn-rnaseq-pfc",
+        "lee-pmdbs-sn-rnaseq",
+        "jakobsson-pmdbs-sn-rnaseq",
+        "scherzer-pmdbs-sn-rnaseq-mtg",
+        "hardy-pmdbs-sn-rnaseq",
+        "hardy-pmdbs-bulk-rnaseq",
+        "lee-pmdbs-bulk-rnaseq-mfg",
+        "wood-pmdbs-bulk-rnaseq",
+        "scherzer-pmdbs-sn-rnaseq-mtg-hybsel",
+        "cohort-pmdbs-sc-rnaseq",
+        "cohort-pmdbs-bulk-rnaseq"
+    ],
+    "collection_names": [
+        "pmdbs-bulk-rnaseq",
+        "pmdbs-sc-rnaseq"
     ]
 }

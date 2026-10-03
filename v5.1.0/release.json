@@ -1,7 +1,7 @@
 {
-    "release_version": "v4.1.0",
-    "cde_version": "v4.3",
-    "release_doi": "10.5281/zenodo.19740716",
+    "release_version": "v5.1.0",
+    "cde_version": "v4.5",
+    "release_doi": "10.5281/zenodo.20186059",
     "datasets": {
         "hafler-pmdbs-sn-rnaseq-pfc": {
             "dataset_version": "v1.1",
@@ -210,61 +210,147 @@
         "alessi-mouse-ms-p-lung-vps35-d620n-dmso-mli2": {
             "dataset_version": "v1.0",
             "doi": "10.5281/zenodo.18476404"
+        },
+        "voet-pmdbs-sn-multimodal": {
+            "dataset_version": "v2.0",
+            "doi": "10.5281/zenodo.18988753"
+        },
+        "voet-pmdbs-sn-atacseq-scalebio-hydrop": {
+            "dataset_version": "v1.0",
+            "doi": "10.5281/zenodo.18988743"
+        },
+        "voet-pmdbs-sn-atacseq-scalebio-10x": {
+            "dataset_version": "v1.0",
+            "doi": "10.5281/zenodo.18988717"
+        },
+        "voet-pmdbs-sn-atacseq-hydrop": {
+            "dataset_version": "v1.0",
+            "doi": "10.5281/zenodo.18988735"
+        },
+        "voet-pmdbs-sn-atacseq-10x": {
+            "dataset_version": "v1.0",
+            "doi": "10.5281/zenodo.18988729"
+        },
+        "voet-pmdbs-sn-rnaseq-parsebio": {
+            "dataset_version": "v1.0",
+            "doi": "10.5281/zenodo.18988761"
+        },
+        "voet-pmdbs-sn-rnaseq": {
+            "dataset_version": "v1.0",
+            "doi": "10.5281/zenodo.18988768"
+        },
+        "scherzer-pmdbs-sn-rnaseq-midbrain-hybsel": {
+            "dataset_version": "v1.0",
+            "doi": "10.5281/zenodo.19124469"
+        },
+        "scherzer-pmdbs-lr-wgs": {
+            "dataset_version": "v1.0",
+            "doi": "10.5281/zenodo.19124632"
+        },
+        "cohort-invitro-bulk-rnaseq": {
+            "dataset_version": "v1.0.0",
+            "doi": "10.5281/zenodo.1786097"
+        },
+        "desjardins-mouse-bulk-rnaseq-striatum-pink1": {
+            "dataset_version": "v1.0",
+            "doi": "10.5281/zenodo.20276414"
+        },
+        "desjardins-mouse-bulk-rnaseq-nigra-pink1": {
+            "dataset_version": "v1.0",
+            "doi": "10.5281/zenodo.20276416"
+        },
+        "desjardins-mouse-sc-rnaseq-colon-immune-lrrk2": {
+            "dataset_version": "v1.0",
+            "doi": "10.5281/zenodo.20276410"
+        },
+        "desjardins-ipsc-sc-rnaseq-myeloid-pink1": {
+            "dataset_version": "v1.0",
+            "doi": "10.5281/zenodo.20276412"
+        },
+        "desjardins-mouse-sc-rnaseq-colon-immune-pink1": {
+            "dataset_version": "v1.0",
+            "doi": "10.5281/zenodo.20276571"
+        },
+        "rio-hesc-spheroids-sc-rnaseq-irradiated": {
+            "dataset_version": "v1.0",
+            "doi": "10.5281/zenodo.19600803"
+        },
+        "rio-hesc-sc-rnaseq-irradiated": {
+            "dataset_version": "v1.0",
+            "doi": "10.5281/zenodo.19600807"
+        },
+        "rio-hesc-sc-rnaseq-wt-dopaminergic": {
+            "dataset_version": "v1.0",
+            "doi": "10.5281/zenodo.19600810"
+        },
+        "rio-hesc-targeted-ngs-mutant-zygosity": {
+            "dataset_version": "v1.0",
+            "doi": "10.5281/zenodo.19600812"
+        },
+        "rio-hesc-wgs-iscore-pd-genotyping-and-snps": {
+            "dataset_version": "v1.0",
+            "doi": "10.5281/zenodo.19600814"
+        },
+        "biederer-pmdbs-spatial-geomx-lamda": {
+            "dataset_version": "v1.0",
+            "doi": "10.5281/zenodo.21727340"
+        },
+        "biederer-mouse-spatial-geomx-lamda": {
+            "dataset_version": "v1.0",
+            "doi": "10.5281/zenodo.21727342"
         }
     },
     "new_datasets": [
-        "lee-mouse-ms-p-lung-g2019s-hf-diet",
-        "lee-mouse-ms-mb-plasma-g2019s-hf-diet",
-        "lee-mouse-ms-mb-liver-g2019s-hf-diet",
-        "lee-mouse-ms-mb-striatum-g2019s-hf-diet",
-        "lee-mouse-ms-mb-lung-g2019s-hf-diet",
-        "lee-mouse-ms-mb-kidney-g2019s-hf-diet",
-        "lee-mouse-ms-l-plasma-g2019s-hf-diet",
-        "lee-mouse-ms-l-liver-g2019s-hf-diet",
-        "lee-mouse-ms-l-striatum-g2019s-hf-diet",
-        "lee-mouse-ms-l-lung-g2019s-hf-diet",
-        "lee-mouse-ms-l-kidney-g2019s-hf-diet",
-        "lee-mouse-ms-mb-plasma-g2019s-nuc-quant",
-        "lee-mouse-ms-mb-striatum-g2019s-nuc-quant",
-        "lee-mouse-ms-mb-midbrain-g2019s-nuc-quant",
-        "alessi-mouse-ms-p-lung-vps35-d620n-wt",
-        "alessi-mouse-ms-p-brain-vps35-d620n-wt",
-        "alessi-mouse-ms-p-brain-vps35-d620n-dmso-mli2",
-        "alessi-mouse-ms-p-lung-vps35-d620n-dmso-mli2",
-        "cohort-pmdbs-bulk-rnaseq",
-        "cohort-pmdbs-sc-rnaseq",
-        "hafler-pmdbs-sn-rnaseq-pfc",
-        "hardy-pmdbs-bulk-rnaseq",
-        "hardy-pmdbs-sn-rnaseq",
-        "jakobsson-pmdbs-sn-rnaseq",
-        "lee-pmdbs-bulk-rnaseq-mfg",
-        "lee-pmdbs-sn-rnaseq",
-        "scherzer-pmdbs-genetics",
-        "scherzer-pmdbs-sn-rnaseq-mtg",
-        "scherzer-pmdbs-sn-rnaseq-mtg-hybsel",
-        "scherzer-pmdbs-spatial-visium-mtg",
-        "sulzer-pmdbs-sn-rnaseq",
-        "wood-pmdbs-bulk-rnaseq"
+        "desjardins-mouse-bulk-rnaseq-striatum-pink1",
+        "desjardins-mouse-bulk-rnaseq-nigra-pink1",
+        "desjardins-mouse-sc-rnaseq-colon-immune-lrrk2",
+        "desjardins-ipsc-sc-rnaseq-myeloid-pink1",
+        "desjardins-mouse-sc-rnaseq-colon-immune-pink1",
+        "rio-hesc-spheroids-sc-rnaseq-irradiated",
+        "rio-hesc-sc-rnaseq-irradiated",
+        "rio-hesc-sc-rnaseq-wt-dopaminergic",
+        "rio-hesc-targeted-ngs-mutant-zygosity",
+        "rio-hesc-wgs-iscore-pd-genotyping-and-snps",
+        "alessi-mouse-sn-rnaseq-dorsal-striatum-g2019s",
+        "lee-mouse-liver-bulk-rnaseq-g2019s",
+        "lee-mouse-bulk-rnaseq-striatum-g2019s-hf-diet",
+        "schlossmacher-mouse-sn-rnaseq-osn-aav-transd",
+        "cragg-mouse-sn-rnaseq-striatum",
+        "voet-pmdbs-sn-multimodal",
+        "biederer-pmdbs-spatial-geomx-lamda",
+        "biederer-mouse-spatial-geomx-lamda"
     ],
     "collections": {
-        "pmdbs-bulk-rnaseq": {
-            "doi": "10.5281/zenodo.14373343",
-            "version": "v1.2.0"
-        },
-        "mouse-sc-rnaseq": {
-            "doi": "10.5281/zenodo.17860974",
-            "version": "v1.0.0"
+        "pmdbs-sc-rnaseq": {
+            "doi": "10.5281/zenodo.14373047",
+            "version": "v3.1.1"
         },
         "pmdbs-spatial-rnaseq": {
             "doi": "10.5281/zenodo.16979474",
             "version": "v1.1.0"
         },
+        "pmdbs-bulk-rnaseq": {
+            "doi": "10.5281/zenodo.14373343",
+            "version": "v1.2.0"
+        },
+        "invitro-bulk-rnaseq": {
+            "doi": "10.5281/zenodo.20400938",
+            "version": "v1.0.0"
+        },
         "mouse-spatial-rnaseq": {
             "doi": "10.5281/zenodo.16979296",
             "version": "v1.0.0"
+        },
+        "mouse-sc-rnaseq": {
+            "doi": "10.5281/zenodo.17860974",
+            "version": "v1.1.0"
+        },
+        "mouse-bulk-rnaseq": {
+            "doi": "10.5281/zenodo.22758101",
+            "version": "v1.0.0"
         }
     },
-    "created": "2026-04-30",
+    "created": "2026-09-30",
     "datasets_names": [
         "hafler-pmdbs-sn-rnaseq-pfc",
         "lee-pmdbs-sn-rnaseq",
@@ -317,12 +403,36 @@
         "alessi-mouse-ms-p-lung-vps35-d620n-wt",
         "alessi-mouse-ms-p-brain-vps35-d620n-wt",
         "alessi-mouse-ms-p-brain-vps35-d620n-dmso-mli2",
-        "alessi-mouse-ms-p-lung-vps35-d620n-dmso-mli2"
+        "alessi-mouse-ms-p-lung-vps35-d620n-dmso-mli2",
+        "voet-pmdbs-sn-multimodal",
+        "voet-pmdbs-sn-atacseq-scalebio-hydrop",
+        "voet-pmdbs-sn-atacseq-scalebio-10x",
+        "voet-pmdbs-sn-atacseq-hydrop",
+        "voet-pmdbs-sn-atacseq-10x",
+        "voet-pmdbs-sn-rnaseq-parsebio",
+        "voet-pmdbs-sn-rnaseq",
+        "scherzer-pmdbs-sn-rnaseq-midbrain-hybsel",
+        "scherzer-pmdbs-lr-wgs",
+        "cohort-invitro-bulk-rnaseq",
+        "desjardins-mouse-bulk-rnaseq-striatum-pink1",
+        "desjardins-mouse-bulk-rnaseq-nigra-pink1",
+        "desjardins-mouse-sc-rnaseq-colon-immune-lrrk2",
+        "desjardins-ipsc-sc-rnaseq-myeloid-pink1",
+        "desjardins-mouse-sc-rnaseq-colon-immune-pink1",
+        "rio-hesc-spheroids-sc-rnaseq-irradiated",
+        "rio-hesc-sc-rnaseq-irradiated",
+        "rio-hesc-sc-rnaseq-wt-dopaminergic",
+        "rio-hesc-targeted-ngs-mutant-zygosity",
+        "rio-hesc-wgs-iscore-pd-genotyping-and-snps",
+        "biederer-pmdbs-spatial-geomx-lamda",
+        "biederer-mouse-spatial-geomx-lamda"
     ],
     "collection_names": [
-        "pmdbs-bulk-rnaseq",
-        "mouse-sc-rnaseq",
+        "pmdbs-sc-rnaseq",
         "pmdbs-spatial-rnaseq",
-        "mouse-spatial-rnaseq"
+        "pmdbs-bulk-rnaseq",
+        "invitro-bulk-rnaseq",
+        "mouse-spatial-rnaseq",
+        "mouse-sc-rnaseq"
     ]
 }

@@ -1700,9 +1700,13 @@
             "wood-pmdbs-bulk-rnaseq"
         ],
         "collections": {
+            "pmdbs-sc-rnaseq": {
+                "doi": "10.5281/zenodo.14373047",
+                "version": "v3.1.1"
+            },
             "pmdbs-bulk-rnaseq": {
                 "doi": "10.5281/zenodo.14373343",
-                "version": "v1.2.0"
+                "version": "v1.2.1"
             },
             "mouse-sc-rnaseq": {
                 "doi": "10.5281/zenodo.17860974",
@@ -1710,7 +1714,7 @@
             },
             "pmdbs-spatial-rnaseq": {
                 "doi": "10.5281/zenodo.16979474",
-                "version": "v1.1.0"
+                "version": "v1.1.1"
             },
             "mouse-spatial-rnaseq": {
                 "doi": "10.5281/zenodo.16979296",
@@ -1773,10 +1777,11 @@
             "alessi-mouse-ms-p-lung-vps35-d620n-dmso-mli2"
         ],
         "collection_names": [
-            "pmdbs-bulk-rnaseq",
-            "mouse-sc-rnaseq",
+            "pmdbs-sc-rnaseq",
             "pmdbs-spatial-rnaseq",
-            "mouse-spatial-rnaseq"
+            "pmdbs-bulk-rnaseq",
+            "mouse-spatial-rnaseq",
+            "mouse-sc-rnaseq"
         ]
     },
     "v4.1.1": {
@@ -2553,7 +2558,7 @@
                 "doi": "10.5281/zenodo.15485103"
             },
             "cragg-mouse-sn-rnaseq-striatum": {
-                "dataset_version": "v1.0",
+                "dataset_version": "v2.0",
                 "doi": "10.5281/zenodo.15400039"
             },
             "edwards-pmdbs-spatial-geomx-th": {
@@ -2824,27 +2829,31 @@
         "collections": {
             "pmdbs-sc-rnaseq": {
                 "doi": "10.5281/zenodo.14373047",
-                "version": "v3.1.1"
+                "version": "v3.1.2"
             },
             "pmdbs-spatial-rnaseq": {
                 "doi": "10.5281/zenodo.16979474",
-                "version": "v1.1.0"
+                "version": "v1.1.2"
             },
             "pmdbs-bulk-rnaseq": {
                 "doi": "10.5281/zenodo.14373343",
-                "version": "v1.2.0"
-            },
-            "invitro-bulk-rnaseq": {
-                "doi": "10.5281/zenodo.20400938",
-                "version": "v1.0.0"
+                "version": "v1.2.2"
             },
             "mouse-spatial-rnaseq": {
                 "doi": "10.5281/zenodo.16979296",
-                "version": "v1.0.0"
+                "version": "v1.0.1"
             },
             "mouse-sc-rnaseq": {
                 "doi": "10.5281/zenodo.17860974",
                 "version": "v1.1.0"
+            },
+            "pmdbs-sc-atacseq": {
+                "doi": "10.5281/zenodo.20400468",
+                "version": "v1.0.1"
+            },
+            "invitro-bulk-rnaseq": {
+                "doi": "10.5281/zenodo.20400938",
+                "version": "v1.0.0"
             },
             "mouse-bulk-rnaseq": {
                 "doi": "10.5281/zenodo.22758101",
@@ -2934,7 +2943,9 @@
             "pmdbs-bulk-rnaseq",
             "invitro-bulk-rnaseq",
             "mouse-spatial-rnaseq",
-            "mouse-sc-rnaseq"
+            "mouse-sc-rnaseq",
+            "pmdbs-sn-atacseq",
+            "mouse-bulk-rnaseq"
         ]
     }
 }
